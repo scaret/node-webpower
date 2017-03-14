@@ -1,0 +1,22 @@
+{
+  "name": "node-webpower",
+  "version": "1.0.0",
+  "description": "A node.js wrapper for the Webpower API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://scaret@github.com/scaret/node-webpower.git"
+  },
+  "author": "scaret",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scaret/node-webpower/issues"
+  },
+  "homepage": "https://github.com/scaret/node-webpower#readme",
+  "dependencies": {
+    "soap": "^0.18.0"
+  }
+}
